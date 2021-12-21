@@ -1,8 +1,4 @@
-this is my second trial to apply git functionalities 
-<<<<<<< HEAD
-=======
 feature1 : this is my first time to apply branching to another branch from master
 End of development 
->>>>>>> feature1
 testBranchRepo : this is the first time to apply branching from Repo
 testBranchRepo : this is the first test to test_branch_repo after first push 
