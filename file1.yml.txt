@@ -1,3 +1,4 @@
 this is my second trial to apply git functionalities 
 feature1 : this is my first time to apply branching to another branch from master
+End of development 
 
